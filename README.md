@@ -86,6 +86,4 @@ well-separated.
 - Python 3
 - scikit-learn
 
-## Author
 
-Your Name
